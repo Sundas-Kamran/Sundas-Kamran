@@ -44,7 +44,7 @@
 </ul>  
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="sundaskamran" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
@@ -56,16 +56,14 @@
 <a href="https://instagram.com/noman_ishaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noman_ishaq_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Website:</h3>
-<a href="https://nomanishaq.netlify.app/" target="blank">https://nomanishaq.com/</a> 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Noman Ishaq</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Sundas Kamran</h1>
 <br/>
 <p align="left">I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.</p>
 <br/>
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
+<img width="55%" align="right" alt="Sundas Kamran" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
 
 <br/>
 
